@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font size: 50px;
+}
+.biri{
+    color: chocolate;
+}
+section{
+    display: flex;
+}
+.alu{
+    width: 60%;
+}
+.alu img{
+    width: 40%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange , red);
+    color: cyan;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
